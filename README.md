@@ -1,1 +1,1 @@
-# GrowthModelingBasics
+# Growth Modeling Basics
